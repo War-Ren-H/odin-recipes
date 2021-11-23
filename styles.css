@@ -1,0 +1,36 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    background-color: blue;
+    color: yellow;
+}
+
+h3 {
+    background-color: red;
+    color: black;
+}
+
+.homepage {
+    font-size: 32px;
+}
+
+.food {
+    height:auto;
+    width: 300px;
+}
+
+ul, ol {
+    color: purple;
+}
+
+ul li {
+    font-family: monospace;
+}
+
+ol li {
+    font-family: cursive;
+}
